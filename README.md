@@ -1,3 +1,3 @@
-## Visualizing the Elite - Revolution
+## Visualizing the Elite v1 - Revolution
 
-https://cinhui.github.io/vizelite_revolution/
+https://cinhui.github.io/vizelite_v1/
